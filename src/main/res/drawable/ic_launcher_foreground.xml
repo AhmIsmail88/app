@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- بطاقة بيضاء (سجل) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,22 L76,22 A10,10 0 0 1 86,32 L86,76 A10,10 0 0 1 76,86 L32,86 A10,10 0 0 1 22,76 L22,32 A10,10 0 0 1 32,22 Z" />
+    <!-- سطور القائمة -->
+    <path
+        android:fillColor="#0F766E"
+        android:pathData="M34,38 H62 A3,3 0 0 1 65,41 A3,3 0 0 1 62,44 H34 A3,3 0 0 1 31,41 A3,3 0 0 1 34,38 Z" />
+    <path
+        android:fillColor="#0F766E"
+        android:pathData="M34,52 H56 A3,3 0 0 1 59,55 A3,3 0 0 1 56,58 H34 A3,3 0 0 1 31,55 A3,3 0 0 1 34,52 Z" />
+    <!-- علامة الحضور -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#0F766E"
+        android:strokeWidth="7"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M36,70 L46,79 L64,58" />
+</vector>
